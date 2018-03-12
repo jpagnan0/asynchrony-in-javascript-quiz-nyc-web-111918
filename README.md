@@ -20,7 +20,7 @@ skills that we hope to help you grow over your course of study at Flatiron!
 
 ( ) Global Interpreter Lock
 ( ) Multicore
-(*) Single-Threaded
+(X) Single-Threaded
 ( ) Multi-Threaded
 
 ?: Which of the following commands does not use asynchronous processing
