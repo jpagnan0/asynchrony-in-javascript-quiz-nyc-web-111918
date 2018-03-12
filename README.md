@@ -43,7 +43,7 @@ asynchronous logic for you.
 (X) False
 
 ?: In a language without asynchronous processing (something not like
-JavaScript), if a web request is made the code will not process until the
+JavaScript), if a web request is made, the following code will not process until the
 response is received and handled.
 
 (X) True
