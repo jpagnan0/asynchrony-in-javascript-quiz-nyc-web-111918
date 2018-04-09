@@ -30,8 +30,7 @@ skills that we hope to help you grow over your course of study at Flatiron!
 (X) `console.log()`
 ( ) `jQuery.get()`
 
-?: In JavaScript, execution can be reliably traced by following from top-down,
-left to right.
+?: In JavaScript, execution can be reliably traced by following from top-down, left to right.
 
 ( ) True
 (X) False
