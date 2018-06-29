@@ -35,15 +35,12 @@ skills that we hope to help you grow over your course of study at Flatiron!
 ( ) True
 (X) False
 
-?: A selling feature of libraries like jQuery and React is that they handle
-asynchronous logic for you.
+?: A selling feature of libraries like jQuery and React is that they handle asynchronous logic for you.
 
 ( ) True
 (X) False
 
-?: In a language without asynchronous processing (something not like
-JavaScript), if a web request is made, the following code will not process until the
-response is received and handled.
+?: In a language without asynchronous processing (something not like JavaScript), if a web request is made, the following code will not process until the response is received and handled.
 
 (X) True
 ( ) False
@@ -72,8 +69,7 @@ console.log("World");
 (X) World Hello
 ( ) World
 
-?: What is the expected output of this command? Assume the server returns
-`{"name": "Byron"}`:
+?: What is the expected output of this command? Assume the server returns `{"name": "Byron"}`:
 
 ```javascript
 var babyName;
@@ -92,8 +88,7 @@ console.log(`I've named my kid, ${babyName}`);
 ( ) This code will not work
 ( ) `babyName` will be updated in a parallel thread
 
-?: What is the expected output of this command? Assume the server returns a
-random Integer. On this particular run it will return `2` and `3`.
+?: What is the expected output of this command? Assume the server returns a random Integer. On this particular run it will return `2` and `3`.
 
 ```javascript
 var addends = [];
